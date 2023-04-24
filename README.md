@@ -7,7 +7,7 @@ Welcome to my Portfolio Guide where I provide a walkthrough to all of my data an
 Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-795b1521/) about my projects!
 
 ## 📚 Table of Contents
-- [SQL](https://github.com/mythilyram/SQL-Projects)
+- [SQL](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#sql)
 - [Python](https://github.com/mythilyram/Python)
 - Power BI
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
