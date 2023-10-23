@@ -14,7 +14,15 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
 
+# Excel
+Level: Intermediate
+
+Skill: Formulae, VLookup, XlookUp, Pivot Tables, Charts, PowerPivot
+
 # SQL
 Level: Intermediate SQL
 
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries
+
+# Power BI
+Level: Intermediate
