@@ -8,8 +8,14 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
 
 ## 📚 Table of Contents
 - [Excel](https://github.com/mythilyram/Excel#readme)
-- [SQL](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#sql), [project](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study#readme)
-- [Power BI](https://github.com/mythilyram/Power-BI#readme),(https://github.com/mythilyram/Business-Insights-360-using-Power-BI/blob/main/README.md)
+- [SQL]
+
+  - [sql](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#sql),
+  - [project](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study#readme)
+- Power BI
+  
+  - [Hospitality Analysis](https://github.com/mythilyram/Power-BI#readme),
+  - [Business-Insights-360](https://github.com/mythilyram/Business-Insights-360-using-Power-BI/blob/main/README.md)
 - [Python](https://github.com/mythilyram/Python)
 
 Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
