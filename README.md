@@ -18,7 +18,8 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
  
 - Excel
   - [Skills](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#excel),
-  - [Sales Analysis and report design](https://github.com/mythilyram/Excel#readme)   
+  - [Sales Analysis and report design](https://github.com/mythilyram/Excel#readme)
+  - [Unveiling-Student-Data-Insights](https://github.com/mythilyram/Unveiling-Student-Data-Insights/tree/main#readme) 
 
 - Python
   - [projects](https://github.com/mythilyram/Python)
@@ -28,7 +29,7 @@ Click on the project's title (bold and coloured in Blue) to view my projects! Th
 # Excel
 Level: Intermediate
 
-Skill: Formulae, VLookup, XlookUp, Pivot Tables, Charts, PowerPivot
+Skill: Formulae, VLookup, XlookUp, Pivot Tables, Charts, PowerPivot, Basic DAX
 
 # SQL
 Level: Intermediate SQL
