@@ -11,10 +11,13 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
 - SQL
   - [Skills](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#sql),
   - [SQL Data Insights Project](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study#readme)
+  - [Movies Data](https://github.com/mythilyram/Movies-SQL)
+  - [Customer behavior analysis](https://github.com/mythilyram/Customer-behavior-analysis)
 
 - Power BI
   - [Hospitality Analysis](https://github.com/mythilyram/Power-BI#readme),
   - [Business-Insights-360](https://github.com/mythilyram/Business-Insights-360-using-Power-BI/blob/main/README.md)
+  - [Healthcare Data Analysis](https://github.com/mythilyram/Healthcare-HCAHPS-Survey-Analysis)
  
 - Excel
   - [Skills](https://github.com/mythilyram/Portfolio-Guide/blob/main/README.md#excel),
