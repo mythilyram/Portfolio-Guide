@@ -13,6 +13,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
   - [SQL Data Insights Project](https://github.com/mythilyram/Tiny-Shop-Sales-SQL-case-study#readme)
   - [Movies Data](https://github.com/mythilyram/Movies-SQL)
   - [Customer behavior analysis](https://github.com/mythilyram/Customer-behavior-analysis)
+  - [Consumer Goods Insights and Adhoc queries](https://github.com/mythilyram/Consumer-Goods-Insights-and-Adhoc-queries/tree/main)
 
 - Power BI
   - [Hospitality Analysis](https://github.com/mythilyram/Power-BI#readme),
