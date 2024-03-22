@@ -17,7 +17,7 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
 
 - Power BI
   - [Hospitality Analysis](https://github.com/mythilyram/Power-BI#readme),
-  - [Business-Insights-360](https://github.com/mythilyram/Business-Insights-360-using-Power-BI/blob/main/README.md)
+  - [Business-Insights](https://github.com/mythilyram/Business-Insights-360-using-Power-BI/blob/main/README.md)
   - [Healthcare Data Analysis](https://github.com/mythilyram/Healthcare-HCAHPS-Survey-Analysis)
  
 - Excel
@@ -28,12 +28,12 @@ Feel free to chat with me on [LinkedIn](https://www.linkedin.com/in/mythily-ram-
 - Python
   - [projects](https://github.com/mythilyram/Python)
 
-Click on the project's title (bold and coloured in Blue) to view my projects! Thank you! ☺️
+Click on the project's title (bold and colored in Blue) to view my projects! Thank you! ☺️
 
 # Excel
 Level: Intermediate
 
-Skill: Formulae, VLookup, XlookUp, Pivot Tables, Charts, PowerPivot, Basic DAX
+Skill: Formulae, VLookup, XlookUp, Pivot Tables, Charts, PowerPivot, Basic DAX, Power Query, Data modeling
 
 # SQL
 Level: Intermediate SQL
@@ -42,3 +42,5 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 # Power BI
 Level: Intermediate
+
+Power Query, ETL, Data cleaning, Transformations, Data modeling, DAX, Calculated columns and measures, Data Visualization.
